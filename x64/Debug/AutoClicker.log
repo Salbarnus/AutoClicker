@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\salby\source\repos\AutoClicker\main.cpp(14,22): warning C4244: '=': conversion from 'UINT' to 'WORD', possible loss of data
+C:\Users\salby\source\repos\AutoClicker\main.cpp(33,22): warning C4244: '=': conversion from 'UINT' to 'WORD', possible loss of data
+  AutoClicker.vcxproj -> C:\Users\salby\source\repos\AutoClicker\x64\Debug\AutoClicker.exe
