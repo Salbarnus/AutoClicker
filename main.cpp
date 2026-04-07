@@ -69,7 +69,7 @@ int main()
        
 
 
-                //ending compilation with NUMPAD0 to stop autoclicker
+                //end program with NUMPAD0 to stop autoclicker
                 if (GetAsyncKeyState(VK_NUMPAD0))
                 {
                     std::cout << "NUMPAD0 PRESSED" << std::endl;
